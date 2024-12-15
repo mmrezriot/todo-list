@@ -1,0 +1,11 @@
+body {
+    text-align: right !important;
+    direction: rtl;
+    background-color: rgb(59, 106, 112);
+
+}
+
+.creat-task {
+    font-size: 20px;
+    font-weight: 600;
+}
